@@ -18,9 +18,9 @@ body {
   height: 40px;
   border-bottom: 2px solid white;
   border-left: 2px solid white;
-  transform: rotate(145deg);
+  transform: rotate(135deg);
   margin: -10px;
-  animation: animate 1.5s infinite;
+  animation: animate 1.2s infinite;
 }
 
 .box span:nth-child(2) {
